@@ -1,0 +1,6 @@
+{
+  "name": "Gatherly",
+  "description": "Every celebration, beautifully organized. Manage events, budgets, guest RSVPs, schedules, and tasks in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
